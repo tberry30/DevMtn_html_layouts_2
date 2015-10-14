@@ -1,0 +1,51 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	width: 100%;
+}
+
+.container {
+	margin: 20px 30px;
+}
+
+.box {
+	float: left;
+	height: 180px;
+	width: 30%;
+}
+
+.middle { margin-left: 5%; margin-right: 5%;}
+
+p {
+	color: #4A4A4A; 
+	margin: 0;
+	padding: 25px 0px;
+	clear: both;
+	font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    font-weight: 500;
+	font-size: 24px;
+	line-height: 1.5em;
+}
+
+.left { float: left; }
+.center { margin: 0 auto; }
+.right { float: right; }
+
+.red { background-color: #D0021B; }
+.blue { background-color: #4A90E2; }
+.gray { background-color: #4A4A4A; }
+
+
+.oneThird { width: 34%; height: 400px; }
+.twoThirds { width: 66%; height: 400px; }
+
+.quadOne { width: 70%; height: 175px; }
+.quadTwo { width: 5%; height: 175px; }
+.quadThree { width: 20%; height: 175px; }
+.quadFour { width: 5%; height: 175px; }
+
+.space { padding-top: 30px; clear: both; }
+
+.clear { clear: both; }
+
